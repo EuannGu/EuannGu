@@ -9,8 +9,7 @@ Reach out to me to see my private repositories for coursework! *
 Skills: [Java] / [Python] / Assembly / C / [JS / HTML / CSS] / SQL
 
 - 🔭 I’m currently working on SuNoFes, a [game jam](https://itch.io/jam/sunofes22). 
-- 🌱 I’m currently learning Burp Suite and CTF from Hacker101. 
-- 👯 I’m looking to collaborate on HackBeanpot 2022. 
+- 🌱 I’m currently learning Burp Suite and CTF from Hacker101.
 - 💬 Ask me about interactive fiction! 
 - 📫 How to reach me: gu.eu@northeastern.edu 
 
