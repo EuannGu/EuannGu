@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Euann!
 #### I'm a second year cybersecurity major at NEU
-!I'm a second year cybersecurity major at NEU.
+[comment]: <> (!I'm a second year cybersecurity major at NEU.)
 
 I like appsec and stories. My dream for the future is to do cool computer things to help people and to feed the dog I'm going to adopt.
 
