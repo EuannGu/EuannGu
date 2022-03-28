@@ -13,6 +13,7 @@ Recent projects:
 - a [visual novel](https://rustle-rabbit.itch.io/journey-to-the-center-of-the-corn) written for [Slice of Jam](https://itch.io/jam/slice-of-jam)! The github repo is [here](https://github.com/trholdridge/Slice-of-Jam-2022).
 - a [desktop pet](https://github.com/EuannGu/black-hole-desktop-pet) made for [HackBeanPot 2022](https://hackbeanpot.com/)
 
+
 - 🔭 I’m currently working on SuNoFes, a [game jam](https://itch.io/jam/sunofes22). 
 - 🌱 I’m currently learning Burp Suite and CTF from Hacker101.
 - 💬 Ask me about interactive fiction! 
