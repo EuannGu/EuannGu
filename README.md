@@ -2,11 +2,11 @@
 #### I'm a second year cybersecurity major at NEU
 ![I'm a second year cybersecurity major at NEU](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I like network security and stories. I dislike papaya. My dream for the future is to do cool computer things to help people and to feed the dog I'm going to adopt.
+I like appsec and stories. I dislike papaya. My dream for the future is to do cool computer things to help people and to feed the dog I'm going to adopt.
 
 Reach out to me to see my private repositories for coursework! *
 
-Skills: [Java] / [Python] / Assembly / C / [JS / HTML / CSS] / SQL
+Skills: [Java](https://github.com/EuannGu/black-hole-desktop-pet) / Python / Assembly / C / [JS / HTML / CSS] / SQL
 
 - 🔭 I’m currently working on SuNoFes, a [game jam](https://itch.io/jam/sunofes22). 
 - 🌱 I’m currently learning Burp Suite and CTF from Hacker101.
