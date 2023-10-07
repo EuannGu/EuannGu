@@ -1,5 +1,5 @@
 ### Hi, my name is Euann!
-#### I'm a third year cybersecurity major at NEU
+#### I'm a fourth year cybersecurity major at NEU
 [comment]: <> (!I'm a third year cybersecurity major at NEU.)
 
 I like appsec and stories. I'd like to do cool computer and security things to help people.
